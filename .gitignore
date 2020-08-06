@@ -1,5 +1,6 @@
 # adding flies to ignore
 config.py
+gns.csv
 
 # adding files too large for git
 PARTS_arev.csv
