@@ -1,3 +1,10 @@
+# adding flies to ignore
+config.py
+
+# adding files too large for git
+PARTS_arev.csv
+PARTS_xrev.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
