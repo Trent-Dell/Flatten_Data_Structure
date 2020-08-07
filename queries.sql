@@ -111,4 +111,4 @@ INTO Arev_newAttr FROM gns
 LEFT JOIN aclean as ar ON (gns.pt = ar.pt);
 
 SELECT * FROM Arev_newAttr;
-	-- 1390244
+	-- 1390244 
